@@ -1,0 +1,5 @@
+D:\Projects\xnbtools\xnb2png\bin\Release\xnb2png.exe
+D:\Projects\xnbtools\xnb2png\bin\Release\xnb2png.pdb
+D:\Projects\xnbtools\xnb2png\obj\x86\Release\xnb2png.csprojResolveAssemblyReference.cache
+D:\Projects\xnbtools\xnb2png\obj\x86\Release\xnb2png.exe
+D:\Projects\xnbtools\xnb2png\obj\x86\Release\xnb2png.pdb
